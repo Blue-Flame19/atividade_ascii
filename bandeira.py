@@ -1,0 +1,6 @@
+print("Bandeira do brasil")
+print("----------")
+print("!  / \   !")
+print("! < 0 >  !")
+print("!  \ /   !")
+print("----------")
